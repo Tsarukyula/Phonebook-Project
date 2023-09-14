@@ -1,0 +1,23 @@
+1827 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\AIT TR Student\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+6585 [main] INFO  org.ait.phonebook.TestBase -- Start test addContactPositiveTestFromDataProviderWithCSV
+11987 [main] INFO  org.ait.phonebook.TestBase -- PASSED: addContactPositiveTestFromDataProviderWithCSV
+11987 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+11987 [main] ERROR org.ait.phonebook.TestBase -- *********************************************************
+11989 [main] INFO  org.ait.phonebook.TestBase -- Start test addContactPositiveTestFromDataProviderWithCSV
+28144 [main] INFO  org.ait.phonebook.TestBase -- PASSED: addContactPositiveTestFromDataProviderWithCSV
+28144 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+28144 [main] ERROR org.ait.phonebook.TestBase -- *********************************************************
+28146 [main] INFO  org.ait.phonebook.TestBase -- Start test addContactPositiveTestFromDataProviderWithCSV
+42014 [main] INFO  org.ait.phonebook.TestBase -- PASSED: addContactPositiveTestFromDataProviderWithCSV
+42014 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+42014 [main] ERROR org.ait.phonebook.TestBase -- *********************************************************
+42016 [main] INFO  org.ait.phonebook.TestBase -- Start test addContactPositiveTestFromDataProviderWithCSV
+55723 [main] INFO  org.ait.phonebook.TestBase -- PASSED: addContactPositiveTestFromDataProviderWithCSV
+55724 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+55724 [main] ERROR org.ait.phonebook.TestBase -- *********************************************************
+55726 [main] INFO  org.ait.phonebook.TestBase -- Start test addContactPositiveTestFromDataProviderWithCSV
+69244 [main] INFO  org.ait.phonebook.TestBase -- PASSED: addContactPositiveTestFromDataProviderWithCSV
+69244 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+69244 [main] ERROR org.ait.phonebook.TestBase -- *********************************************************

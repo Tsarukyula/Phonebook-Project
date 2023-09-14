@@ -1,0 +1,4 @@
+6924 [Test worker] INFO  org.ait.phonebook.TestBase -- Start test isHomeComponentPresentTest with data: []
+7037 [Test worker] INFO  org.ait.phonebook.TestBase -- PASSED: isHomeComponentPresentTest
+7038 [Test worker] INFO  org.ait.phonebook.TestBase -- Stop test
+7038 [Test worker] ERROR org.ait.phonebook.TestBase -- *********************************************************

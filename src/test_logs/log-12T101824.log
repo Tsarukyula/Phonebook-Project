@@ -1,0 +1,7 @@
+1666 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\AIT TR Student\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+5356 [main] INFO  org.ait.phonebook.TestBase -- Start test loginPositiveTest
+16966 [main] ERROR org.ait.phonebook.TestBase -- FAILED: loginPositiveTest Screenshot: C:\GitHub\QA25_Phonebook\screenshots\screen1694506721.png
+16967 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+16967 [main] ERROR org.ait.phonebook.TestBase -- *********************************************************

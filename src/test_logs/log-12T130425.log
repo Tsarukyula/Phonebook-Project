@@ -1,0 +1,20 @@
+1836 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\AIT TR Student\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+6243 [main] INFO  org.ait.phonebook.TestBase -- Start test addContactPositiveTestFromDataProviderWithCSV with data: [Contact{name='Le', phone='1234567890'}]
+11917 [main] ERROR org.ait.phonebook.TestBase -- FAILED: addContactPositiveTestFromDataProviderWithCSV Screenshot: C:\GitHub\QA25_Phonebook\screenshots\screen1694516676.png
+11917 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+11918 [main] ERROR org.ait.phonebook.TestBase -- *********************************************************
+11922 [main] INFO  org.ait.phonebook.TestBase -- Start test addContactPositiveTestFromDataProviderWithCSV with data: [Contact{name='Manuel', phone='1234567890'}]
+28344 [main] ERROR org.ait.phonebook.TestBase -- FAILED: addContactPositiveTestFromDataProviderWithCSV Screenshot: C:\GitHub\QA25_Phonebook\screenshots\screen1694516692.png
+28344 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+28344 [main] ERROR org.ait.phonebook.TestBase -- *********************************************************
+28349 [main] INFO  org.ait.phonebook.TestBase -- Start test addContactPositiveTestFromDataProviderWithCSV with data: [Contact{name='Manuellllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll', phone='1234567890'}]
+43188 [main] ERROR org.ait.phonebook.TestBase -- FAILED: addContactPositiveTestFromDataProviderWithCSV Screenshot: C:\GitHub\QA25_Phonebook\screenshots\screen1694516707.png
+43188 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+43188 [main] ERROR org.ait.phonebook.TestBase -- *********************************************************
+43190 [main] INFO  org.ait.phonebook.TestBase -- Start test addContactPositiveTestFromDataProviderWithCSV with data: [Contact{name='Manuel-Le', phone='1234567890'}]
+57429 [main] INFO  org.ait.phonebook.TestBase -- PASSED: addContactPositiveTestFromDataProviderWithCSV
+57429 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+57430 [main] ERROR org.ait.phonebook.TestBase -- *********************************************************
+57439 [main] INFO  org.ait.phonebook.TestBase -- Start test addContactPositiveTestFromDataProviderWithCSV with data: [Contact{name='Manuel Le', phone='1234567890'}]

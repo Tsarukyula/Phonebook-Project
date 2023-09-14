@@ -1,0 +1,15 @@
+1568 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\AIT TR Student\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+5185 [main] INFO  org.ait.phonebook.TestBase -- Start test addContactPositiveTestFromDataProvider
+9029 [main] INFO  org.ait.phonebook.TestBase -- PASSED: addContactPositiveTestFromDataProvider
+9032 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+9032 [main] ERROR org.ait.phonebook.TestBase -- *********************************************************
+9036 [main] INFO  org.ait.phonebook.TestBase -- Start test addContactPositiveTestFromDataProvider
+22555 [main] INFO  org.ait.phonebook.TestBase -- PASSED: addContactPositiveTestFromDataProvider
+22555 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+22555 [main] ERROR org.ait.phonebook.TestBase -- *********************************************************
+22558 [main] INFO  org.ait.phonebook.TestBase -- Start test addContactPositiveTestFromDataProvider
+35973 [main] INFO  org.ait.phonebook.TestBase -- PASSED: addContactPositiveTestFromDataProvider
+35973 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+35973 [main] ERROR org.ait.phonebook.TestBase -- *********************************************************

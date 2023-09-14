@@ -1,0 +1,12 @@
+1982 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\AIT TR Student\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+9109 [main] INFO  org.ait.phonebook.TestBase -- Start test addContactPositiveTestFromDataProviderWithCSV with data: [Contact{name='Le', phone='1234567890'}]
+16349 [main] ERROR org.ait.phonebook.TestBase -- FAILED: addContactPositiveTestFromDataProviderWithCSV Screenshot: C:\GitHub\QA25_Phonebook\screenshots\screen1694677180.png
+16350 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+16351 [main] ERROR org.ait.phonebook.TestBase -- *********************************************************
+16358 [main] INFO  org.ait.phonebook.TestBase -- Start test addContactPositiveTestFromDataProviderWithCSV with data: [Contact{name='Manuel', phone='1234567890'}]
+31452 [main] ERROR org.ait.phonebook.TestBase -- FAILED: addContactPositiveTestFromDataProviderWithCSV Screenshot: C:\GitHub\QA25_Phonebook\screenshots\screen1694677195.png
+31452 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+31452 [main] ERROR org.ait.phonebook.TestBase -- *********************************************************
+31455 [main] INFO  org.ait.phonebook.TestBase -- Start test addContactPositiveTestFromDataProviderWithCSV with data: [Contact{name='Manuellllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll', phone='1234567890'}]
